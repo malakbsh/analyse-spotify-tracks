@@ -7,10 +7,11 @@ Analyze a dataset of 114,000 Spotify tracks to understand which genres are the m
 danceable and what explains the popularity of a song.
 
 ## Data
-- Source: [Spotify Tracks Dataset on Kaggle](PASTE-THE-KAGGLE-LINK-HERE) (author: Yash)
+- Source: [Spotify Tracks Dataset on Kaggle](https://www.kaggle.com/datasets/yashdev01/spotify-tracks-dataset) (author: Yash)
 - 114,000 tracks, 114 genres, 1,000 tracks per genre
 - Main columns: danceability, energy, valence, tempo, popularity, track_genre
-
+  
+  
 ## Tools
 Python, pandas, matplotlib, Google Colab
 
